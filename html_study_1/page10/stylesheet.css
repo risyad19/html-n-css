@@ -1,0 +1,9 @@
+/* Gantikan font-family tag <body> ke "Avenir Next" */
+body{
+  font-family: "Avenir Next";
+}
+
+h1{
+  font-size: 80px;
+}
+
